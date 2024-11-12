@@ -1,0 +1,9 @@
+integers = [10, 25, 13, 42, 19, 50, 33]
+
+max_value = integers[0]
+
+for num in integers:
+    if num > max_value:
+        max_value = num
+
+print("Максимальный элемент:", max_value)
