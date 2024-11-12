@@ -1,0 +1,8 @@
+float_numbers = [1.5, 2.7, 3.8, 4.9, 6.0]
+
+total_sum = 0
+
+for number in float_numbers:
+    total_sum += number
+
+print(f"Сумма всех элементов массива: {total_sum}")
