@@ -1,0 +1,13 @@
+numbers = [10, 20, 30, 40, 50]
+
+first_element = numbers[0]
+print("Первый элемент:", first_element)
+
+second_element = numbers[1]
+print("Второй элемент:", second_element)
+
+last_element = numbers[-1]
+print("Последний элемент:", last_element)
+
+penultimate_element = numbers[-2]
+print("Предпоследний элемент:", penultimate_element)
